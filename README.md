@@ -1,0 +1,2 @@
+# luas-segitiga-scanner
+none
